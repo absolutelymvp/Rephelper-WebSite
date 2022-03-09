@@ -41,6 +41,11 @@ body {
     transform: scale(1.05);
 }
 
+.DigitalWind{
+    width: 170px;
+    height: 70px;
+}
+
 .main__nav {
     padding-top: 50px;
     display: flex;
